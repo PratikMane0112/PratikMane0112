@@ -24,9 +24,7 @@
 </div>
 
 ###
-
 ![snake gif](https://github.com/PratikMane0112/PratikMane0112/blob/output/github-contribution-grid-snake.svg)
-
 ###
 
 <h3 align="left">Language & Tools :</h3>
