@@ -25,7 +25,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/PratikMane0112/PratikMane0112/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/PratikMane0112/PratikMane0112/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
