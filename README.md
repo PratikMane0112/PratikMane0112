@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="left">👋 I'm a passionate coder from India .<br><br>- 🔭 I’m currently a college student studing in Vishwakarma Institute Technology, Pune.<br>- 📚 I'm currently learning web development in MERN & java language.<br>- ⚡ In my working time, I code & In  my free time, I code...</h3>
+<h3 align="left">👋 I'm a passionate coder from India .<br><br>- 🔭 I’m currently a college student studing in Vishwakarma Institute Technology, Pune .<br>- 📚 I'm currently learning web development in MERN & DSA .<br>- ⚡ In my working time, I code & In  my free time, I code ...</h3>
 
 ###
 
@@ -22,14 +22,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=PratikMane0112&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&custom_title=GitHub%20Stats%20-%20" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PratikMane0112&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2&custom_title=Most%20Used%20Languages%20-" height="150" alt="languages graph"  />
 </div>
-
-###
-![snake gif](https://github.com/PratikMane0112/PratikMane0112/blob/output/github-contribution-grid-snake.svg)
-###
-
+<img src="https://raw.githubusercontent.com/PratikMane0112/PratikMane0112/output/snake.svg" alt="Snake animation" />
 <h3 align="left">Language & Tools :</h3>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
