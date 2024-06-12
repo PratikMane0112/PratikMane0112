@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="left">👋 I'm a passionate coder .<br>- 🔭 I’m currently a college student studing in Vishwakarma Institute Technology, Pune .<br>- 📚 I'm currently learning web development in MERN & DSA .<br>- ⚡ In my working time, I code & In  my free time, I code ...</h3>
+<h3 align="left">- 👋 I'm a passionate coder .<br>- 🔭 I’m currently a college student studing in Vishwakarma Institute Technology, Pune .<br>- 📚 I'm currently learning web development in MERN & DSA .<br>- ⚡ In my working time, I code & In  my free time, I code ...</h3>
 
 ###
 
