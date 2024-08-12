@@ -12,6 +12,10 @@
 
 ###
 
+![GSSoC24_Stats](https://github.com/user-attachments/assets/c43b1154-ec67-48f3-b003-0efb190f4ff3)
+
+###
+
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=PratikMane0112.PratikMane0112&left_text=Views"  />
 </div>
