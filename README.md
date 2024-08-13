@@ -1,9 +1,7 @@
-###
-<div align="center">
-  <img height="150" src="https://github.com/user-attachments/assets/d5e8a825-3730-443c-b688-6a392712c20c"  />
-</div>
 
-###
+<div style="text-align: center; width: 100%;">
+  <img src="https://github.com/user-attachments/assets/d5e8a825-3730-443c-b688-6a392712c20c" style="width: 100%; height: auto;" />
+</div>
 
 ###
 
