@@ -1,9 +1,8 @@
-<h1 align="center">👋! I'm Pratik Mane</h1>
 
 ###
 
 <div align="center">
-  <img height="300" src="https://camo.githubusercontent.com/b9d2cf6f810f95b5fb495edca02c307d492c32f71a62ab6c801e416fa5492338/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37372f63612f61332f37376361613332383834643733356434333961646534356261333766656166322e676966"  />
+  <img height="600" src="https://github.com/PratikMane0112/PratikMane0112/blob/main/hack.gif"  />
 </div>
 
 ###
