@@ -1,6 +1,7 @@
 <div style="text-align: center; width: 100%;">
-  <img src="https://github.com/user-attachments/assets/03a1c8ef-7f14-4673-9eca-b18a74e0ddc5" style="width: 100%; height: auto;" />
-</div>
+  <img src="https://github.com/user-attachments/assets/b2cb4779-9418-4740-8c7e-4b36e5c4a65a" style="width: 100%; height: auto;" />
+  </div>
+
 
 ###
 
