@@ -1,6 +1,8 @@
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 <div style="text-align: center; width: 100%;">
   <img src="https://github.com/user-attachments/assets/03a1c8ef-7f14-4673-9eca-b18a74e0ddc5" style="width: 100%; height: auto;" />
 </div>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ###
 
@@ -9,8 +11,9 @@
 </div>
 
 ###
-
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 <h3 align="left">- 👋 I'm a passionate coder .<br>- 🔭 I’m currently a college student at Vishwakarma Institute Technology, Pune .<br>- 📚 I think MERN & DSA are not skills but a fun .<br>- ⚡ In my working time, I code & In  my free time, I code ...</h3>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ###
 
