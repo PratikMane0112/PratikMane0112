@@ -1,22 +1,22 @@
 <div style="text-align: center; width: 100%;">
-  <img src="https://github.com/user-attachments/assets/b2cb4779-9418-4740-8c7e-4b36e5c4a65a" style="width: 100%; height: auto;" />
-  </div>
+<!--   <img src="https://github.com/user-attachments/assets/b2cb4779-9418-4740-8c7e-4b36e5c4a65a" style="width: 100%; height: auto;" /> -->
+</div>
 
 
 ###
 
 <div align="center">
-  <img height="500" src="https://github.com/PratikMane0112/PratikMane0112/blob/main/hack.gif"  />
+<!--   <img height="500" src="https://github.com/PratikMane0112/PratikMane0112/blob/main/hack.gif"  /> -->
 </div>
 
 ###
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"> -->
 <h3 align="left">- 👋 I'm a passionate coder .<br>- 🔭 I’m currently a college student at Vishwakarma Institute Technology, Pune .<br>- 📚 I think MERN & DSA are not skills but a fun .<br>- ⚡ In my working time, I code & In  my free time, I code ...</h3>
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"> -->
 
 ###
 
-![GSSoC24_Stats](https://github.com/user-attachments/assets/7ea34011-c23a-49a3-9ad1-79efac289458)
+<!-- ![GSSoC24_Stats](https://github.com/user-attachments/assets/7ea34011-c23a-49a3-9ad1-79efac289458) -->
 
 ###
 
@@ -29,9 +29,11 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PratikMane0112&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&custom_title=GitHub%20Stats%20-%20" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PratikMane0112&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2&custom_title=Most%20Used%20Languages%20-" height="150" alt="languages graph"  />
-  <h3 align="left">My Contributions :</h3>
-  <img src="https://raw.githubusercontent.com/PratikMane0112/PratikMane0112/output/snake.svg" alt="Snake animation" />
+  
+<h3 align="left">My Contributions :</h3>
+<!--   <img src="https://raw.githubusercontent.com/PratikMane0112/PratikMane0112/output/snake.svg" alt="Snake animation" /> -->
 </div>
+
 <h3 align="left">Language & Tools :</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
