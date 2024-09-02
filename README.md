@@ -1,12 +1,12 @@
 <div style="text-align: center; width: 100%;">
-  <img src="https://github.com/user-attachments/assets/b2cb4779-9418-4740-8c7e-4b36e5c4a65a" style="width: 100%; height: auto;" />
+<!--   <img src="https://github.com/user-attachments/assets/b2cb4779-9418-4740-8c7e-4b36e5c4a65a" style="width: 100%; height: auto;" /> -->
 </div>
 
 
 ###
 
 <div align="center">
-  <img height="400" src="https://github.com/PratikMane0112/PratikMane0112/blob/main/hack.gif"  />
+<!--   <img height="350" src="https://github.com/PratikMane0112/PratikMane0112/blob/main/hack.gif"  /> -->
 </div>
 
 ###
@@ -34,41 +34,29 @@
 <img src="https://raw.githubusercontent.com/PratikMane0112/PratikMane0112/output/snake.svg" alt="Snake animation" />
 </div>
 
-<h3 align="left">Language & Tools :</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-</div>
-
 ## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/285126925-0b3a8bfe-ddfb-4c7f-93db-3517b0b6fe69.gif" width = 36px>&nbsp;&nbsp; Skills
 <p align = "left">
-<code><a href = "https://www.cprogramming.com/"> <img src = "https://img.icons8.com/color/50/000000/c-programming.png"/> </a></code>
-<code><a href = "https://www.learncpp.com/"> <img src = "https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/> </a></code>
+<code><img src = "https://img.icons8.com/color/50/000000/c-programming.png"/> </a></code>
+<code><img src = "https://img.icons8.com/color/50/000000/java-coffee-cup-logo--v1.png"/> </a></code>
+<code><img src = "https://img.icons8.com/color/50/000000/python--v1.png"/> </a></code>
+<code><img height="45px" src = "https://cdn-icons-png.flaticon.com/128/16425/16425634.png"/> </a></code>
 <code><a href = "https://html.com/"> <img src = "https://img.icons8.com/color/50/000000/html-5.png"/> </a></code>
 <code><a href = "https://web.dev/learn/css/"> <img src = "https://img.icons8.com/color/50/000000/css3.png"/> </a></code>
-<code><a href = "https://www.javascript.com/"> <img src = "https://img.icons8.com/color/50/FAB005/javascript--v1.png"/> </a></code>
-<code><a href = "https://www.python.org/"> <img src = "https://img.icons8.com/color/50/000000/python--v1.png"/> </a></code>
-<code><a href = "https://docs.oracle.com/javase/tutorial/"> <img src = "https://img.icons8.com/color/50/000000/java-coffee-cup-logo--v1.png"/> </a></code>
-<code><a href = "https://code.visualstudio.com/"> <img src = "https://img.icons8.com/color/50/000000/visual-studio-code-2019.png"/> </a></code>
-<code><a href = "https://git-scm.com/"> <img src = "https://img.icons8.com/color/50/000000/git.png"/> </a></code>
-<code><a href = "https://cloud.google.com/"> <img src = "https://img.icons8.com/color/50/000000/google-cloud-platform.png"/> </a></code>
+<code><img src = "https://img.icons8.com/color/50/FAB005/javascript--v1.png"/> </a></code>
+<code><img height="45px" src = "https://cdn-icons-png.flaticon.com/128/3459/3459528.png"/> </a></code>
+<code><img height="45px" src = "https://cdn-icons-png.flaticon.com/128/5968/5968322.png"/> </a></code>
+<code><img height="45px" src = "https://img.icons8.com/?size=64&id=2ZOaTclOqD4q&format=png"/> </a></code>
+<code><img height="45px" src = "https://img.icons8.com/?size=48&id=CIAZz2CYc6Kc&format=png"/> </a></code>
+<code><img height="45px" src = "https://img.icons8.com/?size=64&id=ewGOClUtmFX4&format=png"/> </a></code>
+<code><img height="45px" src = "https://img.icons8.com/?size=48&id=90519&format=png"/> </a></code>
+<code><img height="45px" src = "https://img.icons8.com/?size=40&id=2oBx9FpXcbLa&format=png"/> </a></code>
+<code><img height="45px" src = "https://img.icons8.com/?size=48&id=UFXRpPFebwa2&format=png"/> </a></code>
+<code><img height="45px" src = "https://img.icons8.com/?size=48&id=38561&format=png"/> </a></code>
+<code><img height="45px" src = "https://img.icons8.com/?size=48&id=74402&format=png"/> </a></code>
+<code><img src = "https://img.icons8.com/color/50/000000/git.png"/> </a></code>
+<code><img height="50px" src = "https://img.icons8.com/?size=48&id=AZOZNnY73haj&format=png"/> </a></code>
+<code><img src = "https://img.icons8.com/color/50/000000/visual-studio-code-2019.png"/> </a></code>
+<!-- <code><img src = "https://img.icons8.com/color/50/000000/google-cloud-platform.png"/> </a></code> -->
 </p><br>
 
 ###
