@@ -10,9 +10,10 @@
 </div>
 
 ###
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"> 
-<h3 align="left">- 👋 I'm a passionate coder .<br>- 🔭 I’m currently a college student at Vishwakarma Institute Technology, Pune .<br>- 📚 I think MERN & DSA are not skills but a fun .<br>- ⚡ In my working time, I code & In  my free time, I code ...</h3>
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"> 
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"> -->
+<h3 align="left">- 👋 I'm a passionate coder .<br>- 🔭 I’m currently a college student at Vishwakarma Institute Technology, Pune .
+  <!-- <br>- 📚 I think MERN & DSA are not skills but a fun .<br>- ⚡ In my working time, I code & In  my free time, I code ...</h3>
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"> -->
 
 ###
 
@@ -20,7 +21,7 @@
 
 ###
 
-<div align="left">
+<!-- <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=PratikMane0112.PratikMane0112&left_text=Views"  />
 </div>
 
@@ -58,11 +59,11 @@
 <code><img src = "https://img.icons8.com/color/50/000000/visual-studio-code-2019.png"/> </a></code>
 <!-- <code><img src = "https://img.icons8.com/color/50/000000/google-cloud-platform.png"/> </a></code> -->
 </p><br>
-
+<!--
 ###
 </div>
-
 ###
+-->
 
 <h3 align="left">Connect with me :</h3>
 
@@ -75,12 +76,12 @@
 </div>
 
 ###
-
+<!--
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=PratikMane0112&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+</div> !-->
 
-## GSSoC'24 Badges 🪶
+<!-- ## GSSoC'24 Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
@@ -92,9 +93,8 @@
  <!--  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" /> -->
 </div>
-
-###
-
+<!-- ### -->
+<!--
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=PratikMane0112&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph" /> <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PratikMane0112&radius=16&theme=react&area=true&order=5&custom_title=Contribution%20Graph" height="300" alt="activity-graph graph"  />
