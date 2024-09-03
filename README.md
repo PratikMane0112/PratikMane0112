@@ -16,7 +16,7 @@
 
 ###
 
-![GSSoC24_Stats](https://github.com/user-attachments/assets/7ea34011-c23a-49a3-9ad1-79efac289458)
+<!--![GSSoC24_Stats](https://github.com/user-attachments/assets/7ea34011-c23a-49a3-9ad1-79efac289458) -->
 
 ###
 
