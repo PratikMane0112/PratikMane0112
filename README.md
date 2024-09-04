@@ -10,10 +10,23 @@
 </div>
 
 ###
-<!-- <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"> -->
-<h3 align="left">- 👋 I'm a passionate coder .<br>- 🔭 I’m currently a college student at Vishwakarma Institute Technology, Pune .
-  <!-- <br>- 📚 I think MERN & DSA are not skills but a fun .<br>- ⚡ In my working time, I code & In  my free time, I code ...</h3>
-<!-- <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"> -->
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"> 
+
+## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283929614-7d083e4b-8c04-4c94-b996-085e97c9a6a0.gif" width = 41px>&nbsp;&nbsp; About Me
+<img align = "right" src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283930112-76687f51-ac99-48ef-a44b-dd11c1d78e7f.gif" width = 250px></img>
+
+- 👋 I'm a passionate coder & open source enthusiast.
+- 🏢 Pursuing my B.Tech in Vishwakarma Institute Technology, Pune.
+- 🏫 3<sup>rd</sup> year Student in Information Technology.
+- 📚 My expertise in web dev include MERN, PERN & Flask.
+- 🧑‍💻 Love Coding in Java mostly for DSA.
+- ⭐ Open Source Contributor at [`GSSoC'24`](https://gssoc.girlscript.tech/).
+- ⚡ I think Web Dev & DSA are not skills but a fun.
+- 🤓 Always try to `learn new things`.
+- 🙂 In my working time, I code & In  my free time, I code ...
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"> 
 
 ###
 
