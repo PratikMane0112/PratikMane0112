@@ -79,15 +79,12 @@
 
 <h3 align="left">Connect with me :</h3>
 
-###
-
 <div align="left">
   <a href="https://www.linkedin.com/in/pratik-mane-546bb1284/"><img src="https://img.shields.io/static/v1?message=Linkdin&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"/></a>
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
 </div>
 
-###
 <!--
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=PratikMane0112&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
@@ -112,4 +109,3 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PratikMane0112&radius=16&theme=react&area=true&order=5&custom_title=Contribution%20Graph" height="300" alt="activity-graph graph"  />
 </div>
 
-###
