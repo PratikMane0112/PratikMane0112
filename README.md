@@ -20,7 +20,7 @@
 - 🏫 3<sup>rd</sup> year Student in Information Technology.
 - 📚 My expertise in web dev include MERN, PERN & Flask.
 - 🧑‍💻 Love Coding in Java mostly for DSA.
-- ⭐ Open Source Contributor at [`GSSoC'24`](https://gssoc.girlscript.tech/).
+- ⭐ In top 100 open Source Contributors at [`GSSoC'24`](https://gssoc.girlscript.tech/).
 - ⚡ I think Web Dev & DSA are not skills but a fun.
 - 🤓 Always try to `learn new things`.
 - 🙂 In my working time, I code & In  my free time, I code ...
@@ -70,7 +70,7 @@
 <code><img height="50px" src = "https://img.icons8.com/?size=48&id=AZOZNnY73haj&format=png"/> </a></code>
 <code><img src = "https://img.icons8.com/color/50/000000/visual-studio-code-2019.png"/> </a></code>
 <!-- <code><img src = "https://img.icons8.com/color/50/000000/google-cloud-platform.png"/> </a></code> -->
-</p><br>
+</p>
 <!--
 ###
 </div>
