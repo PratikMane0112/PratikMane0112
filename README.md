@@ -1,11 +1,11 @@
 <div style="text-align: center; width: 100%;">
-<!--  <img src="https://github.com/user-attachments/assets/b2cb4779-9418-4740-8c7e-4b36e5c4a65a" style="width: 100%; height: auto;" /> -->
+ <img src="https://github.com/user-attachments/assets/b2cb4779-9418-4740-8c7e-4b36e5c4a65a" style="width: 100%; height: auto;" />
 </div>
 
 ###
 
 <div align="center">
-<!--   <img height="350" src="https://github.com/PratikMane0112/PratikMane0112/blob/main/hack.gif"  /> -->
+  <img height="350" src="https://github.com/PratikMane0112/PratikMane0112/blob/main/hack.gif"  />
 </div>
 
 ###
@@ -29,7 +29,7 @@
 
 ###
 
-<!--![GSSoC24_Stats](https://github.com/user-attachments/assets/7ea34011-c23a-49a3-9ad1-79efac289458) -->
+![GSSoC24_Stats](https://github.com/user-attachments/assets/7ea34011-c23a-49a3-9ad1-79efac289458)
 
 ###
 
@@ -39,7 +39,7 @@
 
 ###
 
-<!-- <div align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PratikMane0112&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&custom_title=GitHub%20Stats%20-%20" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PratikMane0112&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2&custom_title=Most%20Used%20Languages%20-" height="150" alt="languages graph"  />
   
@@ -71,11 +71,6 @@
 <code><img src = "https://img.icons8.com/color/50/000000/visual-studio-code-2019.png"/> </a></code>
 <!-- <code><img src = "https://img.icons8.com/color/50/000000/google-cloud-platform.png"/> </a></code> -->
 </p>
-<!--
-###
-</div>
-###
--->
 
 <h3 align="left">Connect with me :</h3>
 
@@ -85,12 +80,11 @@
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
 </div>
 
-<!--
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=PratikMane0112&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div> !-->
+</div> 
 
-<!-- ## GSSoC'24 Badges 🪶
+ ## GSSoC'24 Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
@@ -100,10 +94,11 @@
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="100px" height="100px" />
  <!--  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" /> -->
-</div>
-<!-- ### -->
-<!--
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" />
+</div>-->
+  
+###
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=PratikMane0112&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph" /> <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PratikMane0112&radius=16&theme=react&area=true&order=5&custom_title=Contribution%20Graph" height="300" alt="activity-graph graph"  />
