@@ -1,4 +1,3 @@
-
 <!-- [![An image of @pratikmane0112's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pratikmane0112)](https://holopin.io/@pratikmane0112) -->
 
 <div style="text-align: center; width: 100%;">
