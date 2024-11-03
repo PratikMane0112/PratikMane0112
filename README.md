@@ -50,7 +50,6 @@
 <img src="https://raw.githubusercontent.com/PratikMane0112/PratikMane0112/output/snake.svg" alt="Snake animation" />
 </div>
 
-
 ## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/285126925-0b3a8bfe-ddfb-4c7f-93db-3517b0b6fe69.gif" width = 36px>&nbsp;&nbsp; Skills
 <p align = "center">
 <code><img src = "https://img.icons8.com/color/50/000000/c-programming.png"/> </a></code>
