@@ -22,8 +22,7 @@
 - 👋 I'm a passionate coder & open source enthusiast.
 - 🏢 Pursuing my B.Tech in Vishwakarma Institute Technology, Pune.
 - 🏫 Pre-Final year Student in Information Technology.
-- 📚 My expertise in web dev include MERN, PERN & Flask.
-- 🧑‍💻 Love Coding in Java mostly for DSA.
+- 🧑‍💻 My expertise in web dev include => Frontend - ReactJs, TailWind CSS; Backend - NodeJs, Flask, SpringBoot & Databases - MongoDB, PostgreSQL. 
 - ⭐ In top 100 open Source Contributors at [`GSSoC'24`](https://gssoc.girlscript.tech/).
 - ⭐ Contributed & merged 4 PR's successfully at [`Hactoberfest'24`](https://hacktoberfest.com/).
 - ⚡ I think Web Dev & DSA are not skills but a fun.
