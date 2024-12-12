@@ -20,14 +20,13 @@
 <img align = "right" src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283930112-76687f51-ac99-48ef-a44b-dd11c1d78e7f.gif" width = 250px></img>
 
 - 👋 I'm a passionate coder & open source enthusiast.
-- 🏢 Pursuing my B.Tech in Vishwakarma Institute Technology, Pune.
-- 🏫 Pre-Final year Student in Information Technology.
-- 🧑‍💻 My expertise in web dev include MERN Stack, Flask, SpringBoot, PostgreSQL. 
-- ⭐ In top 100 open Source Contributors at [`GSSoC'24`](https://gssoc.girlscript.tech/).
-- ⭐ Contributed & merged 4 PR's successfully at [`Hactoberfest'24`](https://hacktoberfest.com/).
-- ⚡ I think Web Dev & DSA are not skills but a fun.
-- 🤓 Always try to `learn new things`.
-- 🙂 In my working time, I code & In  my free time, I code ....
+- 🏫 Pre-final year B.Tech IT student in Vishwakarma Institute Technology, Pune.
+- 🧑‍💻 My expertise in Web Dev include MERN Stack, Tailwind, Flask, SpringBoot, PostgreSQL.
+- ♾️ Enjoy to learn `DevOps` tools.
+- ⭐ In top 100 Contributors at [`GSSoC'24`](https://gssoc.girlscript.tech/).
+- ⭐ Contributer at [`Hactoberfest'24`](https://hacktoberfest.com/).
+- ⭐ Mentor at [`KWoC'24`](https://kwoc.kossiitkgp.org/).
+- 🙂 In my working time, I code & In  my free time, I code ......
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"> 
 
