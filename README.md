@@ -22,7 +22,7 @@
 - 👋 I'm a passionate coder & open source enthusiast.
 - 🏫 Pre-final year B.Tech IT student in Vishwakarma Institute Technology, Pune.
 - 🧑‍💻 My expertise in Web Dev include MERN Stack, Tailwind, Flask, SpringBoot, PostgreSQL.
-- ♾️ Eager & Enjoy to learn `෴❤️෴ DevOps ෴❤️෴ ` tools.
+- ♾️ Eager & Enjoy to learn ෴❤️ DevOps ❤️෴  tools.
 - ⭐ In top 100 Contributors at [`GSSoC'24`](https://gssoc.girlscript.tech/).
 - ⭐ Contributer at [`Hactoberfest'24`](https://hacktoberfest.com/).
 - ⭐ Mentor at [`KWoC'24`](https://kwoc.kossiitkgp.org/).
