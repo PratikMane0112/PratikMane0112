@@ -25,7 +25,7 @@
 - ♾️ Eager & Enjoy to learn ෴❤️ DevOps ❤️෴  tools.
 - ⭐ In top 100 Contributors at [`GSSoC'24`](https://gssoc.girlscript.tech/).
 - ⭐ Contributer at [`Hactoberfest'24`](https://hacktoberfest.com/).
-- ⭐ Mentor at [`KWoC'24`](https://kwoc.kossiitkgp.org/).
+- ⭐ Project Admin & Mentor at [`KWoC'24`](https://kwoc.kossiitkgp.org/),[`SWoC'25`](https://www.socialwinterofcode.com/)
 - 🙂 In my working time, I code & In  my free time, I code ......
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"> 
