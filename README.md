@@ -16,7 +16,7 @@
 <img align = "right" src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283930112-76687f51-ac99-48ef-a44b-dd11c1d78e7f.gif" width = 250px></img>
 
 - 👋 I'm a passionate coder & open source enthusiast.
-- 🏫 Pre-final year B.Tech IT student at Vishwakarma Institute Technology, Pune.
+- 🏫 Final year B.Tech IT student at Vishwakarma Institute Technology, Pune.
 - 🧑‍💻 My expertise in Web Dev include MERN Stack, Tailwind, Flask, SpringBoot, PostgreSQL.
 - ♾️ Eager & Enjoy to learn ෴❤️ DevOps ❤️෴  tools.
 - ⭐ In top 100 Contributors at [`GSSoC'24`](https://gssoc.girlscript.tech/).
