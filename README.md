@@ -63,7 +63,7 @@
 <code><img src = "https://img.icons8.com/color/50/000000/git.png"/> </a></code>
 <code><img height="50px" src = "https://img.icons8.com/?size=48&id=AZOZNnY73haj&format=png"/> </a></code>
 <code><img src = "https://img.icons8.com/color/50/000000/visual-studio-code-2019.png"/> </a></code>
-<!-- <code><img src = "https://img.icons8.com/color/50/000000/google-cloud-platform.png"/> </a></code> -->
+<code><img src = "https://img.icons8.com/color/50/000000/google-cloud-platform.png"/> </a></code>
 </p>
 
 <div align="center">
