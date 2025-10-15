@@ -4,9 +4,9 @@
 
 ###
 
-<div align="center">
+<!-- <div align="center">
 <img height="400" src="https://github.com/PratikMane0112/PratikMane0112/blob/main/hack.gif"  />
-</div>
+</div> -->
 
 ###
 
