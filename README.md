@@ -21,7 +21,7 @@
 - ♾️ Eager & Enjoy to learn ෴❤️ DevOps ❤️෴  tools.
 - ⭐ In top 100 Contributors at [`GSSoC'24`](https://gssoc.girlscript.tech/).
 - ⭐ Contributer at [`Hactoberfest'24`](https://hacktoberfest.com/) & [`Hactoberfest'25`](https://hacktoberfest.com/) .
-- ⭐ [`Cavista Hackathon 2025`](https://www.linkedin.com/feed/update/urn:li:activity:7299699112914874368/) Winner
+- ⭐ [`Cavista India Hackathon 2025`](https://www.linkedin.com/feed/update/urn:li:activity:7299699112914874368/) Winner
 - ⭐ Mentor at [`KWoC'24`](https://kwoc.kossiitkgp.org/),[`SWoC'25`](https://www.socialwinterofcode.com/), [`DWoC'25`](https://dwoc.io/) & [`IWoC'25`](https://iwoc3.devfolio.co/)
 - 🙂 In my working time, I code & In  my free time, I code ......
 
