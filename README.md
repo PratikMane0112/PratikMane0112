@@ -13,7 +13,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"> 
 
 <!--## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283929614-7d083e4b-8c04-4c94-b996-085e97c9a6a0.gif" width = 41px>&nbsp;&nbsp; About Me -->
-<img align = "right" src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283930112-76687f51-ac99-48ef-a44b-dd11c1d78e7f.gif" width = 220px></img>
+<img align = "right" src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283930112-76687f51-ac99-48ef-a44b-dd11c1d78e7f.gif" width = 210px></img>
 
 - 👋 Upcoming Intern at Red Hat
 - 🏫 Final year B.Tech IT student at Vishwakarma Institute Technology, Pune.
