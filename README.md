@@ -12,28 +12,26 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"> 
 
-## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283929614-7d083e4b-8c04-4c94-b996-085e97c9a6a0.gif" width = 41px>&nbsp;&nbsp; About Me
+<!--## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283929614-7d083e4b-8c04-4c94-b996-085e97c9a6a0.gif" width = 41px>&nbsp;&nbsp; About Me -->
 <img align = "right" src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283930112-76687f51-ac99-48ef-a44b-dd11c1d78e7f.gif" width = 250px></img>
 
-- 👋 I'm a passionate coder & open source enthusiast.
+- 👋 Upcoming Intern at Red Hat
 - 🏫 Final year B.Tech IT student at Vishwakarma Institute Technology, Pune.
-- 🧑‍💻 My expertise in Web Dev include MERN Stack, Tailwind, Flask, SpringBoot, PostgreSQL.
-- ♾️ Eager & Enjoy to learn ෴❤️ DevOps ❤️෴  tools.
-- ⭐ In top 100 Contributors at [`GSSoC'24`](https://gssoc.girlscript.tech/).
-- ⭐ Contributer at [`Hactoberfest'24`](https://hacktoberfest.com/) & [`Hactoberfest'25`](https://hacktoberfest.com/) .
-- ⭐ [`Cavista India Hackathon 2025`](https://www.linkedin.com/feed/update/urn:li:activity:7299699112914874368/) Winner
-- ⭐ Mentor at [`KWoC'24`](https://kwoc.kossiitkgp.org/),[`SWoC'25`](https://www.socialwinterofcode.com/), [`DWoC'25`](https://dwoc.io/) & [`IWoC'25`](https://iwoc3.devfolio.co/)
-- 🙂 In my working time, I code & In  my free time, I code ......
+- ⭐ In top 100 Contributors @[`GSSoC'24`](https://gssoc.girlscript.tech/) & Super Contributor @[`Hactoberfest'25`](https://hacktoberfest.com/)
+- ⭐ [`Cavista India Hackathon'25`](https://www.linkedin.com/feed/update/urn:li:activity:7299699112914874368/) Winner
+- ⭐ Project Admin @[`KWoC'24`](https://kwoc.kossiitkgp.org/), @[`SWoC'25`](https://www.socialwinterofcode.com/) & @[`IWoC'25`](https://iwoc3.devfolio.co/)
+- 🙂 I'm a ❤️Open-source & DevOps❤️ Enthusiast.
+- 🧑‍💻 In my working time, I code & In  my free time, I code ......
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"> 
 
-<div align="left">
+<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=PratikMane0112.PratikMane0112&left_text=Views"  />
 </div>
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PratikMane0112&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&custom_title=GitHub%20Stats%20-%20" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PratikMane0112&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2&custom_title=Most%20Used%20Languages%20-" height="150" alt="languages graph"  /> 
   
@@ -94,4 +92,4 @@
   <img src="https://github-profile-trophy.vercel.app?username=PratikMane0112&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph" /> <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PratikMane0112&radius=16&theme=react&area=true&order=5&custom_title=Contribution%20Graph" height="300" alt="activity-graph graph"  />
 </div>
-
+ -->
