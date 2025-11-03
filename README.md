@@ -1,17 +1,8 @@
-###
-
 [![An image of @pratikmane0112's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pratikmane0112)](https://holopin.io/@pratikmane0112) 
-
-###
-
 <!-- <div align="center">
 <img height="400" src="https://github.com/PratikMane0112/PratikMane0112/blob/main/hack.gif"  />
 </div> -->
-
-###
-
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"> 
-
 <!--## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283929614-7d083e4b-8c04-4c94-b996-085e97c9a6a0.gif" width = 41px>&nbsp;&nbsp; About Me -->
 <img align = "right" src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283930112-76687f51-ac99-48ef-a44b-dd11c1d78e7f.gif" width = 200px></img>
 
@@ -22,20 +13,16 @@
 - ⭐ Project Admin @[`KWoC'24`](https://kwoc.kossiitkgp.org/), @[`SWoC'25`](https://www.socialwinterofcode.com/) & @[`IWoC'25`](https://iwoc3.devfolio.co/)
 - 🙂 I'm a ❤️Open-source & DevOps❤️ Enthusiast.
 - 🧑‍💻 In my working time, I code & In  my free time, I code ......
-
+  
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"> 
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=PratikMane0112.PratikMane0112&left_text=Views"  />
 </div>
-
-###
-
 <!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PratikMane0112&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&custom_title=GitHub%20Stats%20-%20" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PratikMane0112&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2&custom_title=Most%20Used%20Languages%20-" height="150" alt="languages graph"  /> 
   
-<h3 align="left">My Contributions :</h3>
+<!--<h3 align="left">My Contributions :</h3>
 <img src="https://raw.githubusercontent.com/PratikMane0112/PratikMane0112/output/snake.svg" alt="Snake animation" />
 </div>
 
