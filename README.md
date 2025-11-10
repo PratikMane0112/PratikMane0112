@@ -11,7 +11,7 @@
 - ⭐ In top 100 Contributors @[`GSSoC'24`](https://gssoc.girlscript.tech/) & Super Contributor @[`Hactoberfest'25`](https://hacktoberfest.com/)
 - ⭐ [`Cavista India Hackathon'25`](https://www.linkedin.com/feed/update/urn:li:activity:7299699112914874368/) Winner
 - ⭐ Project Admin @[`KWoC'24`](https://kwoc.kossiitkgp.org/), @[`SWoC'25`](https://www.socialwinterofcode.com/) & @[`IWoC'25`](https://iwoc3.devfolio.co/)
-- 🙂 I'm a ❤️Open-source & DevOps❤️ Enthusiast.
+- 🙂 I'm a Open Source & DevOps Enthusiast.
 - 🧑‍💻 In my working time, I code & In  my free time, I code ......
   
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"> 
