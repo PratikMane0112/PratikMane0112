@@ -6,7 +6,7 @@
 <!--## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283929614-7d083e4b-8c04-4c94-b996-085e97c9a6a0.gif" width = 41px>&nbsp;&nbsp; About Me -->
 <img align = "right" src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283930112-76687f51-ac99-48ef-a44b-dd11c1d78e7f.gif" width = 200px></img>
 
-- 👋 Upcoming Intern at Red Hat
+- 👋 I'm Upcoming Intern at Red Hat
 - 🏫 Final year B.Tech IT student at Vishwakarma Institute of Technology, Pune.
 - ⭐ In top 100 Contributors @[`GSSoC'24`](https://gssoc.girlscript.tech/) & Super Contributor @[`Hactoberfest'25`](https://hacktoberfest.com/)
 - ⭐ [`Cavista India Hackathon'25`](https://www.linkedin.com/feed/update/urn:li:activity:7299699112914874368/) Winner
