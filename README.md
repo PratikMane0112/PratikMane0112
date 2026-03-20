@@ -9,7 +9,7 @@
 
 - 👋 Hello, I'm a Final year B.Tech IT student at [VIT, Pune](https://www.vit.edu/)
 - 🏫 Currently an Intern at [Red Hat](https://www.linkedin.com/company/red-hat/)
-- 🙂 I'm a Open Source & DevOps Enthusiast and love to automate everything under the Sun \O/ !!!!
+- 🙂 I'm a Open-Source (DevOps) Enthusiast and love to automate everything under the Sun \O/ !!!!
 - ⭐ Was in top 100 Contributors @[GSSoC'24](https://gssoc.girlscript.tech/) & Super Contributor @[Hactoberfest'25](https://hacktoberfest.com/)
 - ⭐ Also, [Cavista India Hackathon'25](https://www.linkedin.com/feed/update/urn:li:activity:7299699112914874368/) Winner
 - 🧑‍💻 In my working time, I code & In  my free time, I code ......
