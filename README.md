@@ -1,7 +1,10 @@
 [![An image of @pratikmane0112's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pratikmane0112)](https://holopin.io/@pratikmane0112) 
 <!-- <div align="center">
-<img height="400" src="https://github.com/PratikMane0112/PratikMane0112/blob/main/hack.gif"  />
+<img src="https://raw.githubusercontent.com/PratikMane0112/PratikMane0112/output/snake.svg" alt="Snake animation" />
 </div> -->
+<div align="center">
+<img width="100%" src="https://github.com/PratikMane0112/PratikMane0112/blob/main/hack.gif"  />
+</div> 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"> 
 <!--## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283929614-7d083e4b-8c04-4c94-b996-085e97c9a6a0.gif" width = 41px>&nbsp;&nbsp; About Me -->
 <img align = "right" src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283930112-76687f51-ac99-48ef-a44b-dd11c1d78e7f.gif" width = 200px></img>
@@ -12,11 +15,11 @@
 - ⭐ Was in top 100 Contributors @[GSSoC'24](https://gssoc.girlscript.tech/) & Super Contributor @[Hactoberfest'25](https://hacktoberfest.com/)
 - ⭐ Also, [Cavista India Hackathon'25](https://www.linkedin.com/feed/update/urn:li:activity:7299699112914874368/) Winner
 - 🙂 I'm a Open-Source (DevOps) Enthusiast & love to automate everything under the Sun \O/ !!!
-- 🧑‍💻 In my working time, I code & In  my free time, I code ......
+- 🧑‍💻 In my working time, I code & In  my free time, I code ...
 <!-- - ⭐ Project Admin at [KWoC'24](https://kwoc.kossiitkgp.org/) [SWoC'25](https://www.socialwinterofcode.com/) & [IWoC'25](https://iwoc3.devfolio.co/) -->
   
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"> 
-<div align="center">
+<div align="center" >
   <img src="https://visitor-badge.laobi.icu/badge?page_id=PratikMane0112.PratikMane0112&left_text=Views"  />
 </div>
 <!-- <div align="center">
