@@ -1,4 +1,4 @@
-<!-- [![An image of @pratikmane0112's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pratikmane0112)](https://holopin.io/@pratikmane0112) 
+[![An image of @pratikmane0112's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pratikmane0112)](https://holopin.io/@pratikmane0112) 
 <!-- <div align="center">
 <img src="https://raw.githubusercontent.com/PratikMane0112/PratikMane0112/output/snake.svg" alt="Snake animation" />
 </div> -->
